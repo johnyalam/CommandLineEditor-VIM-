@@ -1,1 +1,3 @@
-This is a command line editor. Which can help you to purform diffrent command line operation with vim. Vim vim is a vi-compatible text editor. It has many powerful enhancements for moving around, searching, and editing documents. Basic editing is simple to learn, and there’s additional functionality to explore. You can access most of the functionality by using keystroke combinations that trigger certain behavior.
+This is a command line editor. Which can help you to purform diffrent command line operation with vim. Vim vim is a vi-compatible text editor. 
+It has many powerful enhancements for moving around, searching, and editing documents. Basic editing is simple to learn, and there’s additional functionality
+to explore. You can access most of the functionality by using keystroke combinations that trigger certain behavior.
